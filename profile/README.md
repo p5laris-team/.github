@@ -1,3 +1,4 @@
+<img width="192" height="192" alt="image" src="https://github.com/user-attachments/assets/948aca05-0d35-4fa6-84af-e15444b35fb7" />
 # polaris-traveler
 
 **작은 하루가 별조각이 되고, 별친구가 그걸 기억하는 AI 루틴 서비스**
